@@ -11,3 +11,5 @@ I use `NavDeepLinkBuilder` to create pending intent and `NotificationManagerComp
 
 https://user-images.githubusercontent.com/2919625/161809157-facee60f-7d91-4085-9a97-18ae80813dd3.mp4
 
+### Google Issue Tracker
+Link: https://issuetracker.google.com/issues/228201897
