@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/fragmentA"
+        android:icon="@drawable/ic_baseline_home_24"
+        android:title="@string/a"/>
+
+    <item
+        android:id="@+id/fragmentB"
+        android:icon="@drawable/ic_baseline_notifications_24"
+        android:title="@string/b"/>
+
+    <item
+        android:id="@+id/fragmentC"
+        android:icon="@drawable/ic_baseline_settings_24"
+        android:title="@string/c"/>
+</menu>

@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Navigation Issue</string>
+    <string name="a">A</string>
+    <string name="b">B</string>
+    <string name="c">C</string>
+    <string name="create_notification">Create Notification</string>
+    <string name="description">When you open the app it should be possible to navigate to all fragments A,B and C.\n\n1. Click on the "Create Notification" button\n2. Open the new notification\n3. It\'s possible to navigate to fragments B and C but not to fragment A.</string>
+</resources>
